@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "== create bucket via CFN"
+aws cloudformation          
